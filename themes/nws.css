@@ -81,15 +81,15 @@ section {
     place-content: center;
 }
 
+section::after {
+    color: #a5b4fc;
+    font-size: 1rem;
+}
+
 section header {
     text-align: left;
     font-size: 1rem;
     color: #a5b4fc;
-}
-
-section::after {
-    color: #a5b4fc;
-    font-size: 1rem;
 }
 
 /* Sections de couverture */
@@ -106,7 +106,7 @@ section.cover h1 {
 section.chapter {
     place-content: center;
     text-align: center;
-    font-size: 2.5rem;
+    /* font-size: 2.5rem; */
 }
 
 section:where(.chapter, .exercise) header {
@@ -120,8 +120,4 @@ section.exercise {
 
     outline: 6px dashed #a5b4fc;
     outline-offset: -20px;
-}
-
-section header {
-    text-align: left;
 }
