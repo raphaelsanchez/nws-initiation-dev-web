@@ -1,0 +1,104 @@
+/* @theme nws */
+@import "gaia";
+
+/* Variables de couleur */
+:root {
+    --clr-accent: #4f46e5;
+    --clr: #1e1b4b;
+    --bg: #eef2ff;
+}
+
+:root.invert {
+    --bg: #1e1b4b;
+    --clr: #eef2ff;
+    --clr-accent: #a5b4fc;
+}
+
+:root.invert h1 {
+    color: var(--clr-accent);
+}
+
+/* ==========================
+   Heading Styles
+   ========================== */
+
+/* Titres de niveau 1 */
+h1,
+h2 {
+    color: var(--clr-accent);
+    line-height: 1.1;
+    text-wrap: balance;
+}
+
+/* ==========================
+   Text Styles
+   ========================== */
+
+/* Liens */
+a {
+    color: var(--clr-accent);
+    text-decoration: underline;
+}
+
+/* Texte en gras */
+strong {
+    color: var(--clr-accent);
+}
+
+/* ==========================
+   List Styles
+   ========================== */
+
+/* Listes non ordonnées */
+ul {
+    padding-inline-start: 1.5rem;
+}
+
+/* Marqueurs de liste */
+ul li::marker {
+    color: var(--clr-accent);
+}
+
+/* ==========================
+   Layout Styles
+   ========================== */
+
+/* Sections générales */
+section {
+    font-size: 2rem;
+    background-color: var(--bg);
+    color: var(--clr);
+    place-content: center;
+}
+
+section header {
+    text-align: left;
+    font-size: 1rem;
+    color: #a5b4fc;
+}
+
+section::after {
+    color: #a5b4fc;
+    font-size: 1rem;
+}
+
+/* Sections de couverture */
+section.cover {
+    place-content: center;
+    text-align: center;
+}
+
+section.cover h1 {
+    font-size: 5rem;
+}
+
+/* Sections de chapitre */
+section.chapter {
+    place-content: center;
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+section header {
+    text-align: left;
+}
