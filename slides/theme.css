@@ -59,6 +59,16 @@ ul li::marker {
     color: var(--clr-accent);
 }
 
+/* Listes ordonnées */
+ol {
+    padding-inline-start: 3rem;
+}
+
+ol li::marker {
+    color: var(--clr-accent);
+    font-weight: 900;
+}
+
 /* ==========================
    Layout Styles
    ========================== */
@@ -97,6 +107,19 @@ section.chapter {
     place-content: center;
     text-align: center;
     font-size: 2.5rem;
+}
+
+section:where(.chapter, .exercise) header {
+    display: none;
+}
+
+section.exercise {
+    place-content: center;
+    font-size: 2.5rem;
+    background-color: #e0e7ff;
+
+    outline: 6px dashed #a5b4fc;
+    outline-offset: -20px;
 }
 
 section header {
