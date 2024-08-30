@@ -17,24 +17,25 @@ paginate: true
 <!-- header: Environnement de développement -->
 <!-- Slide 02 -->
 
-# Mettre en place un environnement de développement
+# Préparer puis mettre en place un environnement de développement
 
-- Un navigateur web avec un bon inspecteur de code : [Google Chrome](https://www.google.com/chrome/)
+Préparer et mettre en place un environnement de développement consiste à configurer les outils et logiciels nécessaires pour coder, tester, et gérer vos projets de manière efficace et structurée.
+
+- Un navigateur web avec inspecteur de code performant : [Google Chrome](https://www.google.com/chrome/)
 - Un IDE _(Integrated Development Environment)_ : [Visual Studio Code](https://code.visualstudio.com/)
-- Un système de gestion de version : [Git](https://git-scm.com/)
-- Un repository distant : [GitHub](https://github.com/)
-- Un serveur LAMP loclal : [LocalWP](https://localwp.com/) par exemple
+- Un système de gestion de versions distribué : [Git](https://git-scm.com/)
+- Un repository distant pour le code source : [GitHub](https://github.com/)
+- Un serveur LAMP local : [LocalWP](https://localwp.com/) par exemple
 
 ---
 
 <!-- header: Environnement de développement > Le navigateur web -->
 <!-- _class: chapter  -->
 
-# Le navigateur web
+# Le navigateur web 👨🏼‍💻
 
-Google Chrome
-
----
+Pour voir le résultat, utilisez un navigateur web, probablement déjà installé. Si vous en avez un autre, nous vous recommandons celui-ci.
+![bg right](../assets/chrome-screen.png)
 
 ---
 
@@ -53,11 +54,10 @@ Google Chrome
 <!-- header: Environnement de développement > L'IDE -->
 <!-- _class: chapter  -->
 
-# L'IDE
+# L'IDE ⌨️
 
-Visual Studio Code
-
----
+Pour coder efficacement, oubliez le bloc-notes : nous allons utiliser un logiciel professionnel, reconnu et doté d'extensions très pratiques (Visual Studio Code).
+![bg left](../assets/vscode-screen.png)
 
 ---
 
@@ -77,11 +77,10 @@ Visual Studio Code
 <!-- header: Environnement de développement > Le serveur local -->
 <!-- _class: chapter  -->
 
-# Le serveur local
+# Le serveur local 🛜
 
-LocalWP
-
----
+Pour tester notre code et voir nos modifications, nous allons installer un serveur local, qui nous permettra de travailler sur notre projet sans le rendre accessible à tous en ligne (Local WP).
+![bg right](../assets/server.jpg)
 
 ---
 
@@ -103,17 +102,41 @@ LocalWP
 
 <!-- _class: chapter  -->
 
-# Le système de gestion de version
+# Le système de gestion de version 📦
 
-Git
+GitHub et le versioning sont des outils clés pour gérer les modifications de code et collaborer efficacement. Ils permettent de suivre chaque changement en rendant le développement plus organisé et sécurisé.
+
+![bg left](../assets/github-screen.png)
+
+---
+
+<!-- _class: exercise -->
+
+# À vous ...
+
+1. Se créer un compte sur [github.com](https://github.com/)
+2. Installer [Github Desktop](https://github.com/apps/desktop)
+3. Configurer Github Desktop _(ℹ️ le processus de configuration est simple, il suffit de suivre l'installation et de choisir un répertoire dans lequel y seront stockés vos repositories)_
 
 ---
 
 <!-- _class: chapter  -->
 
-# Le repository distant
+# Votre premier repository 👶🏻
 
-GitHub
+Pour organiser et sécuriser le développement de votre projet, commencez par créer un repository (dossier), où tous les fichiers du projet seront centralisés.
+![bg right](../assets/github-repository-screen.png)
+
+---
+
+<!-- _class: exercise -->
+
+# À vous ...
+
+1. Se connecter à votre compte sur [github.com](https://github.com/)
+2. Créer un nouveau repository
+3. Le clôner sur votre ordinateur
+4. Puis enregistrer votre premier fichier **Readme.md** sur Github
 
 ---
 
