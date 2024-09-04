@@ -3,19 +3,19 @@
 
 /* Variables de couleur */
 :root {
-    --clr-accent: #4f46e5;
-    --clr: #1e1b4b;
-    --bg: #eef2ff;
+  --clr-accent: #00a5a5;
+  --clr: #1e1b4b;
+  --bg: #ffffff;
 }
 
 :root.invert {
-    --bg: #1e1b4b;
-    --clr: #eef2ff;
-    --clr-accent: #a5b4fc;
+  --bg: #eef2ff;
+  --clr: #eef2ff;
+  --clr-accent: #00a5a5;
 }
 
 :root.invert h1 {
-    color: var(--clr-accent);
+  color: var(--clr-accent);
 }
 
 /* ==========================
@@ -25,9 +25,9 @@
 /* Titres de niveau 1 */
 h1,
 h2 {
-    color: var(--clr-accent);
-    line-height: 1.1;
-    text-wrap: balance;
+  color: var(--clr-accent);
+  line-height: 1.1;
+  text-wrap: balance;
 }
 
 /* ==========================
@@ -36,13 +36,13 @@ h2 {
 
 /* Liens */
 a {
-    color: var(--clr-accent);
-    text-decoration: underline;
+  color: var(--clr-accent);
+  text-decoration: underline;
 }
 
 /* Texte en gras */
 strong {
-    color: var(--clr-accent);
+  color: var(--clr-accent);
 }
 
 /* ==========================
@@ -51,22 +51,22 @@ strong {
 
 /* Listes non ordonnées */
 ul {
-    padding-inline-start: 1.5rem;
+  padding-inline-start: 1.5rem;
 }
 
 /* Marqueurs de liste */
 ul li::marker {
-    color: var(--clr-accent);
+  color: var(--clr-accent);
 }
 
 /* Listes ordonnées */
 ol {
-    padding-inline-start: 3rem;
+  padding-inline-start: 3rem;
 }
 
 ol li::marker {
-    color: var(--clr-accent);
-    font-weight: 900;
+  color: var(--clr-accent);
+  font-weight: 900;
 }
 
 /* ==========================
@@ -75,49 +75,52 @@ ol li::marker {
 
 /* Sections générales */
 section {
-    font-size: 2rem;
-    background-color: var(--bg);
-    color: var(--clr);
-    place-content: center;
+  font-size: 2rem;
+  background-color: var(--bg);
+  color: var(--clr);
+  place-content: center;
 }
 
 section::after {
-    color: #a5b4fc;
-    font-size: 1rem;
+  color: #a5b4fc;
+  font-size: 1rem;
+  width: 100%;
+  height: 3px;
+  background-color: var(--clr-accent);
 }
 
 section header {
-    text-align: left;
-    font-size: 1rem;
-    color: #a5b4fc;
+  text-align: left;
+  font-size: 1rem;
+  color: #a5b4fc;
 }
 
 /* Sections de couverture */
 section.cover {
-    place-content: center;
-    text-align: center;
+  place-content: center;
+  text-align: center;
 }
 
 section.cover h1 {
-    font-size: 5rem;
+  font-size: 5rem;
 }
 
 /* Sections de chapitre */
 section.chapter {
-    place-content: center;
-    text-align: center;
-    /* font-size: 2.5rem; */
+  place-content: center;
+  text-align: center;
+  /* font-size: 2.5rem; */
 }
 
 section:where(.chapter, .exercise) header {
-    display: none;
+  display: none;
 }
 
 section.exercise {
-    place-content: center;
-    font-size: 2.5rem;
-    background-color: #e0e7ff;
+  place-content: center;
+  font-size: 2.5rem;
+  background-color: #ffffff;
 
-    outline: 6px dashed #a5b4fc;
-    outline-offset: -20px;
+  outline: 6px dashed var(--clr-accent);
+  outline-offset: -20px;
 }

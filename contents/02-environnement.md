@@ -74,7 +74,6 @@ Pour coder efficacement, oubliez le bloc-notes : nous allons utiliser un logicie
 
 ---
 
-<!-- header: Environnement de développement > Le serveur local -->
 <!-- _class: chapter  -->
 
 # Le serveur local 🛜

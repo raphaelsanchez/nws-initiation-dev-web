@@ -3,14 +3,19 @@ marp: true
 title: Environnement de développement
 author: Raphael Sanchez & Charles Sauvat
 theme: nws
-paginate: true
 ---
 
 <!-- Slide 01 -->
-<!-- _class: cover invert -->
+<!-- _class: cover -->
 <!-- _paginate: false -->
 
-# Premiers pas dans le développement web
+![bg right:40%](../assets/vscode-screen.png)
+
+![w:250](../assets/logo-nws.svg)
+
+## 🛜 Vos premiers pas dans le développement web
+
+Raphael Sanchez & Charles Sauvat
 
 ---
 
@@ -41,7 +46,7 @@ Le développement web est l'ensemble des tâches liées à la conception, au dé
 
 <!-- _class: chapter -->
 
-# Qui sommes-nous ?
+# 👨🏼‍💻 Qui sommes-nous ?
 
 ---
 
@@ -49,7 +54,8 @@ Le développement web est l'ensemble des tâches liées à la conception, au dé
 
 ## Charles Sauvat
 
-Développeur web fullstack [@NW Groupe](https://www.nw-groupe.com/)
+Développeur web fullstack
+[@NW Groupe](https://www.nw-groupe.com/)
 
 <!-- TODO: a compléter par Charles -->
 
