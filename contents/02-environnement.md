@@ -7,10 +7,18 @@ paginate: true
 ---
 
 <!-- Slide 01 -->
-<!-- _class: cover invert -->
+<!-- _class: cover -->
 <!-- _paginate: false -->
 
-# Environnement de développement
+![bg right:40%](../assets/vscode-screen.png)
+
+![w:250](../assets/logo-nws.svg)
+
+## ⌨️ Environnement de développement
+
+Préparer et mettre en place un environnement de développement consiste à configurer les outils et logiciels nécessaires pour coder, tester, et gérer vos projets de manière efficace et structurée.
+
+Raphael Sanchez & Charles Sauvat
 
 ---
 
@@ -18,8 +26,6 @@ paginate: true
 <!-- Slide 02 -->
 
 # Préparer puis mettre en place un environnement de développement
-
-Préparer et mettre en place un environnement de développement consiste à configurer les outils et logiciels nécessaires pour coder, tester, et gérer vos projets de manière efficace et structurée.
 
 - Un navigateur web avec inspecteur de code performant : [Google Chrome](https://www.google.com/chrome/)
 - Un IDE _(Integrated Development Environment)_ : [Visual Studio Code](https://code.visualstudio.com/)
@@ -74,7 +80,6 @@ Pour coder efficacement, oubliez le bloc-notes : nous allons utiliser un logicie
 
 ---
 
-<!-- header: Environnement de développement > Le serveur local -->
 <!-- _class: chapter  -->
 
 # Le serveur local 🛜

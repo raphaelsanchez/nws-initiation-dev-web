@@ -7,18 +7,18 @@ paginate: true
 ---
 
 <!-- Slide 01 -->
-<!-- _class: cover invert -->
+<!-- _class: cover -->
 <!-- _paginate: false -->
 
-# Introduction à HTML
+![bg right:40%](../assets/vscode-screen.png)
 
-_Raphael Sanchez & Charles Sauvat_
+![w:250](../assets/logo-nws.svg)
 
----
+## ⌨ Introduction au HTML
 
-<!-- _class: chapter -->
+Explorer la structure d'un document HTML en découvrant les balises associées, en créant votre premier texte, votre premier lien hypertexte, et en visualisant le résultat.
 
-# Comprendre le fonctionnement de HTML
+Raphael Sanchez & Charles Sauvat
 
 ---
 
@@ -34,9 +34,7 @@ HTML fait tourner TOUT le web, sans exception _(et aussi certaines applications 
 
 ---
 
-<!-- header: "Comprendre le fonctionnement de HTML" -->
-
-## Anatomie d'une page HTML
+## Structure de base d'une page HTML
 
 ```html
 <!DOCTYPE html>
@@ -65,11 +63,13 @@ HTML fait tourner TOUT le web, sans exception _(et aussi certaines applications 
 <!-- header: '' -->
 <!-- _class: chapter  -->
 
-# Apprendre à structurer un document en HTML
+# 👨🏻‍🏫 Apprendre à structurer un document en HTML
+
+![bg right](../assets/structure-doc-html.png)
+
+Découverte des balises essentielles pour structurer un document, et création de votre première page HTML.
 
 ---
-
-<!-- header: "Apprendre à structurer un document en HTML" -->
 
 ## Structure de base d'un document .html
 
@@ -94,7 +94,11 @@ HTML fait tourner TOUT le web, sans exception _(et aussi certaines applications 
 <!-- header: '' -->
 <!-- _class: chapter  -->
 
-# Apprendre à utiliser les balises sémantiques
+# 🖼️ Apprendre à utiliser les balises sémantiques
+
+![bg right](../assets/semantic-balises.png)
+
+Explorer les balises sémantiques, créer des textes, créer des liens, faire des retours à la ligne, des listes...
 
 ---
 
