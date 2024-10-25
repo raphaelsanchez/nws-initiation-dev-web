@@ -10,9 +10,9 @@ paginate: true
 <!-- _class: cover -->
 <!-- _paginate: false -->
 
-![bg right:40%](../assets/vscode-screen.png)
+![bg right:40%](../../assets/vscode-screen.png)
 
-![w:250](../assets/logo-nws.svg)
+![w:250](../../assets/logo-nws.svg)
 
 ## ⌨️ Environnement de développement
 
@@ -38,7 +38,7 @@ Raphael Sanchez & Charles Sauvat
 # Le navigateur web 👨🏼‍💻
 
 Choisir un bon navigateur est essentiel. Si vous en avez un autre, nous vous recommandons celui-ci.
-![bg right](../assets/chrome-screen.png)
+![bg right](../../assets/chrome-screen.png)
 
 ---
 
@@ -56,7 +56,7 @@ Choisir un bon navigateur est essentiel. Si vous en avez un autre, nous vous rec
 # L'inspecteur d'éléments 👀
 
 L'inspecteur d'éléments est un outil de développement intégré permettant de déboguer et de modifier en temps réel le code d'une page web.
-![bg right](../assets/chrome_inspect_element_.jpg)
+![bg right](../../assets/chrome_inspect_element_.jpg)
 
 ---
 
@@ -76,7 +76,7 @@ L'inspecteur d'éléments est un outil de développement intégré permettant de
 
 Pour coder efficacement, nous allons utiliser un logiciel reconnu et doté d'extensions
 (Visual Studio Code).
-![bg left](../assets/vscode-screen.png)
+![bg left](../../assets/vscode-screen.png)
 
 ---
 
@@ -100,7 +100,7 @@ Pour coder efficacement, nous allons utiliser un logiciel reconnu et doté d'ext
 
 GitHub et le versioning sont des outils clés pour gérer les modifications de code et collaborer efficacement.
 
-![bg left](../assets/github-screen.png)
+![bg left](../../assets/github-screen.png)
 
 ---
 
@@ -121,7 +121,7 @@ GitHub et le versioning sont des outils clés pour gérer les modifications de c
 # Votre premier repository 👶🏻
 
 Pour organiser et sécuriser le développement de votre projet, commencez par créer un repository (dossier), contenant tous les fichiers du projet.
-![bg right](../assets/github-repository-screen.png)
+![bg right](../../assets/github-repository-screen.png)
 
 ---
 
@@ -147,7 +147,7 @@ Pour organiser et sécuriser le développement de votre projet, commencez par cr
 # Le serveur local 🛜
 
 Pour tester notre code et voir nos modifications, nous allons installer un serveur local, qui nous permettra de travailler sur notre projet sans le rendre accessible à tous en ligne (Local WP).
-![bg right](../assets/server.jpg)
+![bg right](../../assets/server.jpg)
 
 ---
 

@@ -9,9 +9,9 @@ theme: nws
 <!-- _class: cover -->
 <!-- _paginate: false -->
 
-![bg right:40%](../assets/vscode-screen.png)
+![bg right:40%](../../assets/vscode-screen.png)
 
-![w:250](../assets/logo-nws.svg)
+![w:250](../../assets/logo-nws.svg)
 
 ## 🛜 Vos premiers pas dans le développement web
 
@@ -50,7 +50,7 @@ Le développement web est l'ensemble des tâches liées à la conception, au dé
 
 ---
 
-![bg left w:400](../assets/charles.png)
+![bg left w:400](../../assets/charles.png)
 
 ## Charles Sauvat
 
@@ -66,7 +66,7 @@ Développeur web fullstack
 
 ---
 
-![bg right w:400](../assets/raphael.png)
+![bg right w:400](../../assets/raphael.png)
 
 ## Raphael Sanchez
 
@@ -112,4 +112,5 @@ Développeur d'interface et Design System [@Indépendant](https://raphaelsanchez
 
 Completez ce court questionnaire
 
-[![w:300 h:300](../assets/faisons-connaissance-qr-code.svg)](https://forms.gle/dVCjh71J5prcFGFx8)
+[![w:300 h:300](../../assets/faisons-connaissance-qr-code.svg)](https://forms.gle/dVCjh71J5prcFGFx8)
+s
