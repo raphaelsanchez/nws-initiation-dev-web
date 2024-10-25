@@ -10,9 +10,9 @@ paginate: true
 <!-- _class: cover -->
 <!-- _paginate: false -->
 
-![bg right:40%](../assets/vscode-screen.png)
+![bg right:40%](../../assets/vscode-screen.png)
 
-![w:250](../assets/logo-nws.svg)
+![w:250](../../assets/logo-nws.svg)
 
 ## ⌨ Introduction au HTML
 
@@ -65,7 +65,7 @@ HTML fait tourner TOUT le web, sans exception _(et aussi certaines applications 
 
 # 👨🏻‍🏫 Apprendre à structurer un document en HTML
 
-![bg right](../assets/structure-doc-html.png)
+![bg right](../../assets/structure-doc-html.png)
 
 Découverte des balises essentielles pour structurer un document, et création de votre première page HTML.
 
@@ -96,7 +96,7 @@ Découverte des balises essentielles pour structurer un document, et création d
 
 # 🖼️ Apprendre à utiliser les balises sémantiques
 
-![bg right](../assets/semantic-balises.png)
+![bg right](../../assets/semantic-balises.png)
 
 Explorer les balises sémantiques, créer des textes, créer des liens, faire des retours à la ligne, des listes...
 
