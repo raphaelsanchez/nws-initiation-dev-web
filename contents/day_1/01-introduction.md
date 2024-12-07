@@ -13,7 +13,7 @@ theme: nws
 
 ![w:250](../../assets/logo-nws.svg)
 
-## 🛜 Vos premiers pas dans le développement web
+## Vos premiers pas dans le développement web
 
 Raphael Sanchez & Charles Sauvat
 
