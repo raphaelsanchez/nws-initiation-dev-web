@@ -1,8 +1,10 @@
 # NWS : Initiation au développement web
 
-Slides de présentation du cours d'initiation au développement web.
+Slides de présentation du cours d'initiation au développement web pour les étudiants de première année à la Normandie Web School.
 
-Pour faire des slides, nous utilisons Marp, un outil de création de présentations en Markdown. Afin de simplifier la création des slides nous utilisons Visual Studio Code avec l'extension Marp.
+## Présentation
+
+Pour faire des slides, nous utilisons Marp, un outil de création de présentations en Markdown. Afin de simplifier la création des slides, nous utilisons Visual Studio Code avec l'extension Marp.
 
 ## Installation
 
